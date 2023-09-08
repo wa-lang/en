@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as r}from"./app.98f1071a.js";const s="/license/wca.png",w=JSON.parse('{"title":"凹语言贡献者协议（意见征求稿·尚未生效）","description":"","frontmatter":{},"headers":[],"relativePath":"guide/wca.md"}'),n={name:"guide/wca.md"},c=r("",5),o=[c];function l(p,_,i,d,g,f){return t(),a("div",null,o)}const m=e(n,[["render",l]]);export{w as __pageData,m as default};

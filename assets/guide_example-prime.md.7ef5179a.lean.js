@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as p}from"./app.98f1071a.js";const d=JSON.parse('{"title":"Example: Print Prime","description":"","frontmatter":{},"headers":[],"relativePath":"guide/example-prime.md"}'),l={name:"guide/example-prime.md"},e=p("",6),o=[e];function t(c,r,E,D,y,i){return a(),n("div",null,o)}const f=s(l,[["render",t]]);export{d as __pageData,f as default};
